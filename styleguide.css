@@ -1,0 +1,196 @@
+.section-title {
+			border-bottom: solid 1px #dedede;
+			padding-bottom: 0.5em;
+			margin-top: 2em;
+		}
+
+		.label {
+			font-size: 14px;	
+			margin: 0.5em 0 2em;
+		}
+
+		.container {
+			width: 90%;
+			max-width: 1000px;
+			margin: 0 auto;
+			overflow: hidden;
+		}
+
+		.colours {
+			padding-left: 0;
+			list-style: none;
+		}
+
+		.colours li {
+			float: left;
+			width: 20%;
+			text-align: center;
+		}
+
+		.colours .swatch {
+			display: inline-block;
+			width: 70%;
+			height: 0;
+			padding-top: 70%;
+			border-radius: 50%
+		}
+
+		.typography {
+			max-width: 500px;
+
+		}
+
+
+		.typography p {
+
+			font-family: helvetica;
+			font-weight: 200;
+		}
+
+		.typography p a{
+		   text-decoration: underline;
+		   color: #27ae60;
+		}
+		
+
+		.typography ul li {
+
+			font-family: helvetica;
+			font-weight: 400;
+
+		}
+
+		.typography h1{
+			font-family: Century Gothic;
+			line-height: 35px;
+
+		}
+
+		.typography h2 {
+			font-family: Century Gothic;
+
+		}
+
+		.typography h3{
+			font-family: Century Gothic;
+
+		}
+
+		.typography h4{
+			font-family: Century Gothic;
+
+		}
+
+		.typography h5{
+			font-family: Century Gothic;
+
+		}
+
+		.typography h6{
+			font-family: Century Gothic;
+
+		}
+
+
+		.container .form-title {
+			font-family: Century Gothic;
+		}
+
+		.container label {
+			font-family: Century Gothic;
+
+		}
+
+		.container input {
+			font-family: helvetica;
+			font-weight: 400;
+			border-radius: 30px;
+		}
+
+		.container textarea {
+
+			font-family: helvetica;
+			font-weight: 400;
+			border-radius: 10px;
+
+		}
+
+		.container select {
+
+			border-radius: 10px;
+			background: #27ae60;
+			border: 2px groove #2ecc71;
+		
+
+		}
+
+		.container .button {
+			border-radius: 5px;
+			background: #27ae60;
+			border: 2px groove #2ecc71;
+			padding: 3px 10px;
+		}
+
+		.container .value {
+			color: #242424;
+			font-family: helvetica;
+			font-weight: 400;
+		}
+
+		.container .button-big {
+			
+				border-radius: 5px;
+			background: #27ae60;
+			border: 4px groove #2ecc71;
+			text-decoration: none;
+			font-size: 15px;
+			color: #fff;
+			font-family: helvetica;
+			font-weight: 400;
+			padding: 10px;
+			margin: 5px;
+
+		}
+
+			.container .button-small {
+			
+				border-radius: 5px;
+			background: #27ae60;
+			border: 4px groove #2ecc71;
+			text-decoration: none;
+			font-size: 12px;
+			color: white;
+			font-family: helvetica;
+			font-weight: 400;
+			padding: 6px;
+
+		}
+
+		.container .button-inverse {
+			border-radius: 5px;
+			background: #2980b9;
+			border: 2px groove  grey;
+			text-decoration: none;
+			font-size: 12px;
+			color: white;
+			font-family: helvetica;
+			font-weight: 400;
+			padding: 10px;
+
+
+		}
+
+
+		.container .panel {
+			background: rgba(204, 204, 204, 0.8);
+			display: inline-block;
+			
+			border-radius: 5px;
+		}
+		.container .panel p {
+		font-family: helvetica;
+			font-weight: 500;
+			color: #27ae60;
+			padding: 5px;
+
+		}
